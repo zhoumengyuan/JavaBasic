@@ -1,7 +1,7 @@
 # JavaBasic
 Java基础
 
-## 1、 Java入门阶段  
+#### 1、 Java入门阶段  
   * java三大版本含义  
   * java特性  
   * java应用程序运行机制  
