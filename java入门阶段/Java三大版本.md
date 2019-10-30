@@ -8,4 +8,4 @@ JaveEE:
 JaveMe：  
 英文名称是Java Micro Edition，微型版，定位在消费性电子产品的应用上，例如：智能微波炉，但是应用范围很窄。  
 
-！[关系图](https://github.com/zhoumengyuan/JavaBasic/blob/master/src/img/Java_version.png)
+![关系图](https://github.com/zhoumengyuan/JavaBasic/blob/master/src/img/Java_version.png)
