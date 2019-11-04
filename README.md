@@ -3,8 +3,8 @@
 
 ### 1、 Java入门阶段  
   * [java三大版本含义](https://github.com/zhoumengyuan/JavaBasic/blob/master/java%E5%85%A5%E9%97%A8%E9%98%B6%E6%AE%B5/Java%E4%B8%89%E5%A4%A7%E7%89%88%E6%9C%AC.md)
-  * java特性  
-  * java应用程序运行机制  
+  * [java特性](https://github.com/zhoumengyuan/JavaBasic/blob/master/java%E5%85%A5%E9%97%A8%E9%98%B6%E6%AE%B5/java%E7%89%B9%E6%80%A7.md)  
+  * [java应用程序运行机制](https://github.com/zhoumengyuan/JavaBasic/blob/master/java%E5%85%A5%E9%97%A8%E9%98%B6%E6%AE%B5/java%E7%9A%84%E8%BF%90%E8%A1%8C%E6%9C%BA%E5%88%B6.md)  
   * JDK，JRE和JVM的作用和区别  
   * JDK下载安装
   * JDK环境变量PATH设置  
