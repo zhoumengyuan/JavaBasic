@@ -10,8 +10,8 @@
 包含JRE、以及增加编译器和调试器等用于程序开发的文件。  
 
 建议：  
-× 如果只是运行java程序，只需要JRE就可以，JRe通常非常小。  
-× 如果要开发java程序，就需要安装jdk。  
+* 如果只是运行java程序，只需要JRE就可以，JRe通常非常小。  
+* 如果要开发java程序，就需要安装jdk。  
 
 ## JDK、JRE、JVMd关系如图
 ![](https://github.com/zhoumengyuan/JavaBasic/blob/master/src/img/jdk%EF%BC%8Cjre%EF%BC%8Cjvm.png)
