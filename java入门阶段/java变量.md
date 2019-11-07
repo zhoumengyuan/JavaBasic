@@ -14,6 +14,7 @@ java是一种强类型的语言，每个变量都必须声明数据类型，变�
    double b = 3.0;
 ```   
 <font color="FF0000">注意：变量需要声明，并且初始化后才可以使用</font>
+<span style="color: red"> Some red text </span>
 
  
 ### 2、变量类型  
