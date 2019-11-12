@@ -14,16 +14,8 @@ java是一种强类型的语言，每个变量都必须声明数据类型，变�
    double b = 3.0;
 ```   
 <font color="FF0000">注意：变量需要声明，并且初始化后才可以使用</font>  
-<font color='red'>text</font>  
-<span style="color: red"> Some red text </span>  
-
-<font face="黑体">我是黑体字</font>
-<font face="微软雅黑">我是微软雅黑</font>
-<font face="STCAIYUN">我是华文彩云</font>
-<font color=#0099ff size=12 face="黑体">黑体</font>
-<font color=#00ffff size=3>null</font>
-<font color=gray size=5>gray</font>
 
 ### 2、变量类型  
- 
-
+ 局部变量：local variable方法或语句块内部定义的变量。生命周期从声明位置开始到方法或语句块执行完毕为止。
+ 成员变量：member ar
+ 静态变量：
