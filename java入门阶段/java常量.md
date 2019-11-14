@@ -17,4 +17,4 @@
  3、常量：大写字母和下划线：MAX_VALUE  
  4、类名：首字母大写和驼峰原则：Man，GoodMan  
  5、方法名：首字母小写和驼峰命名：run(),runRun()  
- ## [相关代码]https://github.com/zhoumengyuan/JavaBasic/blob/master/src/main/java/BasicDefinition/ConstantTest.java)
+ ## [相关代码](https://github.com/zhoumengyuan/JavaBasic/blob/master/src/main/java/BasicDefinition/ConstantTest.java)
