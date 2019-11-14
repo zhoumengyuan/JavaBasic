@@ -20,7 +20,7 @@ java是一种强类型的语言，每个变量都必须声明数据类型，变�
  ``` 
  public class VariableTest {
     public static void main(String[] args) {
-        int a = 1;//局部变量，必须初始化，必须赋值。
+        int loc = 1;//局部变量从属于方法，必须初始化，必须赋值，
         System.out.println(a);
     }
 }
@@ -28,12 +28,21 @@ java是一种强类型的语言，每个变量都必须声明数据类型，变�
  成员变量：member variable又叫全局变量，方法外部，类的内部定义的变量。从属于对象，生命周期帮随对象始终。  
  ``` 
  public class VariableTest {
-    int b ;//成员变量，自动初始化给默认值。
+    int mem ;//成员变量从属于对象，自动初始化给默认值。
     public static void main(String[] args) {
-        System.out.println(a);
+        System.out.println(mem);
     }
 }
 ``` 
- 静态变量：static variable又叫类变量，使用static定义，从属于类，声明周期伴随类始终，从类加载到卸载。  
+ 静态变量：static variable又叫类变量，使用static定义，从属于类，声明周期伴随类始终，从类加载到卸载。 
+  ``` 
+  public class VariableTest {
+    static int sta ;//静态变量从属于类
+    public static void main(String[] args) {
+        System.out.println(sta);
+    }
+    System.out.println(sta);
+}
+  ``` 
  
  
