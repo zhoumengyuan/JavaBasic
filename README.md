@@ -9,7 +9,7 @@
   * [JDK下载安装](https://github.com/zhoumengyuan/JavaBasic/blob/master/java%E5%85%A5%E9%97%A8%E9%98%B6%E6%AE%B5/JDK%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.md)
   * [java变量](https://github.com/zhoumengyuan/JavaBasic/blob/master/java%E5%85%A5%E9%97%A8%E9%98%B6%E6%AE%B5/java%E5%8F%98%E9%87%8F.md)  
   * [java常量](https://github.com/zhoumengyuan/JavaBasic/blob/master/java%E5%85%A5%E9%97%A8%E9%98%B6%E6%AE%B5/java%E5%B8%B8%E9%87%8F.md)
-  * [基本数据类型]()
+  * [基本数据类型](https://github.com/zhoumengyuan/JavaBasic/blob/master/java入门阶段/基本数据类型.md)
   * 运算符  
   * 数据类型之间的转换  
   * 控制语句的介绍  
