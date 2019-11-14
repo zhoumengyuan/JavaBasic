@@ -1,3 +1,5 @@
+package BasicDefinition;
+
 /**
  * 变量
  */
