@@ -45,4 +45,4 @@ java是一种强类型的语言，每个变量都必须声明数据类型，变�
 }
   ``` 
  
-
+### [相关代码](https://github.com/zhoumengyuan/JavaBasic/blob/master/src/main/java/VariableTest.java)
